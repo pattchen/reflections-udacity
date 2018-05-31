@@ -19,6 +19,8 @@ I can revert some changes if necessary.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+Branches would be helpful when we cnt to try experimental features without breaking the 
+master code. They help by creating a new copy of the code that we can modifiy and track.
 
 How do the diagrams help you visualize the branch structure?
 
