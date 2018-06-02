@@ -23,6 +23,9 @@ Branches would be helpful when we cnt to try experimental features without break
 master code. They help by creating a new copy of the code that we can modifiy and track.
 
 How do the diagrams help you visualize the branch structure?
+Diagrams help visualize the branch structure by displaying in order all changes in all branches
+ordered by date of changes. This way we can clearly view what changes as made in each branch,
+which ones are available in one branch and not in another.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
