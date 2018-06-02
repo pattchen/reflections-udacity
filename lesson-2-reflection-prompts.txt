@@ -29,6 +29,10 @@ which ones are available in one branch and not in another.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+Commits of the 2 branches are now accessible on one branche. Also changes done in these
+2 files are merged. The representation in the diagram helps captures which changes happen 
+in which branches and at which point of time.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+Automatic merging automatically detects and highlights all changes.
