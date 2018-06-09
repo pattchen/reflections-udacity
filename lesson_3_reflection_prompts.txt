@@ -11,6 +11,9 @@ remote repo in my local repo.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
+Fork : clone one repository from a github account to another github account.
+clone : copy a repository from a remote or local location to a location directory.
+branch : create a subset of changes into an existing repository.
 
     
 
