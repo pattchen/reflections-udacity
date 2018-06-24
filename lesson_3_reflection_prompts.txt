@@ -30,5 +30,11 @@ Harder : managing versions, identifying and resolving conflicts.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
+I woudl do that when I wnt my team mate to check first and all of us be confortable
+with the change before merging everything.
+Push/Pull directly in the master is faster and accelerate delivery time especially
+for teams working on different time zones.
+The other approach has the advantage of keeping team member in the loop and give them
+a chance to review our work.
 
     
