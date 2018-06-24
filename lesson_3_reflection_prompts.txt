@@ -24,7 +24,8 @@ This would help to do merge without too much complications.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
-
+Easier : no learning curve, just rules set by the team and myself.
+Harder : managing versions, identifying and resolving conflicts.
     
 
 When would you want to make changes in a separate branch rather than directly in
